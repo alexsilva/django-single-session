@@ -1,6 +1,6 @@
 [project]
 name = "django-single-session"
-version = "0.1.1"
+version = "0.2.0"
 authors = [{name = "Willem Van Onsem", email = "hapythexeu+gh@gmail.com"}]
 # The following seems to be defined outside of pyproject.toml
 dynamic = ['description', 'readme', 'requires-python', 'license']
